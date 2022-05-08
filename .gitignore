@@ -1,3 +1,6 @@
 node_modules
 vault
 tsconfig.tsbuildinfo
+.DS_Store
+*.js
+*.d.ts
